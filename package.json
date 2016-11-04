@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "passport-nexon@^0.0.2",
+        "scope": null,
+        "escapedName": "passport-nexon",
+        "name": "passport-nexon",
+        "rawSpec": "^0.0.2",
+        "spec": ">=0.0.2 <0.0.3",
+        "type": "range"
+      },
+      "E:\\work\\mantis\\games.nexon.net\\games-nexon-net"
+    ]
+  ],
+  "_from": "passport-nexon@>=0.0.2 <0.0.3",
+  "_id": "passport-nexon@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/passport-nexon",
+  "_npmUser": {
+    "name": "hjlee",
+    "email": "mamsori@gmail.com"
+  },
+  "_npmVersion": "1.4.3",
+  "_phantomChildren": {
+    "pause": "0.0.1",
+    "pkginfo": "0.2.3"
+  },
+  "_requested": {
+    "raw": "passport-nexon@^0.0.2",
+    "scope": null,
+    "escapedName": "passport-nexon",
+    "name": "passport-nexon",
+    "rawSpec": "^0.0.2",
+    "spec": ">=0.0.2 <0.0.3",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/passport-nexon/-/passport-nexon-0.0.2.tgz",
+  "_shasum": "5b1c70391a74d1c015697e5752608c990d10e7e9",
+  "_shrinkwrap": null,
+  "_spec": "passport-nexon@^0.0.2",
+  "_where": "E:\\work\\mantis\\games.nexon.net\\games-nexon-net",
+  "author": {
+    "name": "HyoukJoon Lee"
+  },
+  "dependencies": {
+    "oauth": "0.9.x",
+    "passport": "~0.1.17",
+    "pkginfo": "0.2.x"
+  },
+  "description": "Nexon authentication (oauth2) strategy for passport",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5b1c70391a74d1c015697e5752608c990d10e7e9",
+    "tarball": "https://registry.npmjs.org/passport-nexon/-/passport-nexon-0.0.2.tgz"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "nexon",
+    "oauth2",
+    "passport"
+  ],
+  "license": "MIT",
+  "main": "./lib/passport-nexon",
+  "maintainers": [
+    {
+      "name": "hjlee",
+      "email": "mamsori@gmail.com"
+    }
+  ],
+  "name": "passport-nexon",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
