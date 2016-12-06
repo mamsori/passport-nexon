@@ -67,7 +67,7 @@
     "passport"
   ],
   "license": "MIT",
-  "main": "./lib/passport-nexon",
+  "main": "./lib",
   "maintainers": [
     {
       "name": "hjlee",
