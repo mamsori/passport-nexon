@@ -1,6 +1,6 @@
 {
   "name": "passport-nexon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Nexon authentication (oauth2) strategy for passport",
   "keywords": [
     "nexon",
